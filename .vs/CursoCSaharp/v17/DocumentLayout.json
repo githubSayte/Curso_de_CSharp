@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\CursoCSaharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\cursocsaharp\\cursocsaharp\\exerciciotipoprimitivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\exerciciotipoprimitivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExercicioTipoPrimitivo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\CursoCSaharp\\CursoCSaharp\\ExercicioTipoPrimitivo.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\ExercicioTipoPrimitivo.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\CursoCSaharp\\CursoCSaharp\\ExercicioTipoPrimitivo.cs",
+              "RelativeToolTip": "CursoCSaharp\\ExercicioTipoPrimitivo.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:45:47.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
