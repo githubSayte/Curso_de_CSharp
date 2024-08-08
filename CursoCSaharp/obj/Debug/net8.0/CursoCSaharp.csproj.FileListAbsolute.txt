@@ -27,3 +27,11 @@ C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso_de_CSharp\CursoCSaharp\obj
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.pdb
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.genruntimeconfig.cache
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\ref\CursoCSaharp.dll
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.AssemblyInfoInputs.cache
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.AssemblyInfo.cs
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.sourcelink.json
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.dll
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\refint\CursoCSaharp.dll
+C:\Users\TEMP.LAB205_2.000\Desktop\Renato Resende\Curso_de_Csharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.pdb
