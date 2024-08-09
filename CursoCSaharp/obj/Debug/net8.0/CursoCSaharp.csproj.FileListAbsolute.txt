@@ -43,3 +43,10 @@ C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.dll
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\refint\CursoCSaharp.dll
 C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\bin\Debug\net8.0\CursoCSaharp.exe
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\bin\Debug\net8.0\CursoCSaharp.deps.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\bin\Debug\net8.0\CursoCSaharp.runtimeconfig.json
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\bin\Debug\net8.0\CursoCSaharp.dll
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\bin\Debug\net8.0\CursoCSaharp.pdb
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\CursoCSaharp.genruntimeconfig.cache
+C:\Users\Aluno Noite\OneDrive\Área de Trabalho\Renato R. Aluno da Manhã\Curso_de_CSharp\CursoCSaharp\obj\Debug\net8.0\ref\CursoCSaharp.dll
