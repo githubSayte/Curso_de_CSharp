@@ -136,20 +136,39 @@ public static void apresentardados()
             n2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine($"o resultado da expressão é: {(n1 + n2) * (n1 - n2)}.");
         
-        */
-
-        public static void apresentardados()
+         public static void apresentardados()
         {
-            int? n1;
-            int? n2;
-            Console.WriteLine("Digite o primeiro número");
-            n1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Digite o segundo número");
-            n2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"o resultado da expressão é: {(n1 * n1) + (n2 * n2)}.");
-
+            int dias;
+            Console.WriteLine("Digite a quantidade de dias:?");
+            dias = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"A quantidade de horas contidas nos dias informados são: {(dias * 24)}");
 
         }
 
-    }
+
+        */
+
+        public static void MostrarResultado()
+        {
+            Console.Write("Digite a hora e os minutos no formato HHMM (ex: 1430 para 14:30):");
+            string input = Console.ReadLine();
+
+            // Verificar se a entrada tem o comprimento correto (4 caracteres)
+            if (input.Length == 4 && int.TryParse(input, out _))
+            {
+                // Extrair horas e minutos da string
+                int horas = int.Parse(input.Substring(0, 2));
+                int minutos = int.Parse(input.Substring(2, 2));
+
+                // Converter horas e minutos em minutos totais
+                int minutosTotais = (horas * 60) + minutos;
+                Console.WriteLine($"Total em minutos: {minutosTotais}");
+            }
+            else
+            {
+                Console.WriteLine("Entrada inválida. Certifique-se de digitar 4 dígitos.");
+            }
+        }
+
+    } 
 }
