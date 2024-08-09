@@ -3,166 +3,58 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
-namespace CursoCSharp
+namespace CursoCSharp //pasta
 {
-    public static class TipoPrimitivo
+    public static class TipoPrimitivo //classe
     {
-        public static void ImprimirTipos()
+        public static void ImprimirTipos() //método
         {
 
+            sbyte SByte = -128; // Valores variam de -128 a 127
+            Console.WriteLine($"sbyte: {SByte}");
 
-            // Exercicio Tipos Primitivos LerEscrever 
+            byte variavelByte = 255; // Valores variam de 0 a 255
+            Console.WriteLine($"byte: {variavelByte}");
 
-            /** 
-                string? nome;
-                string? sobrenome;
-                Console.WriteLine("Digite o seu nome:");
-                nome = Console.ReadLine();
-                Console.WriteLine("Digite o seu sobrenome:");
-                sobrenome = Console.ReadLine();
-                Console.WriteLine($"O nome é:{nome}, e o sobrenome: {sobrenome}");
-            */
+            short variavelShort = -32768; // Valores variam de -32768 a 32767
+            Console.WriteLine($"short: {variavelShort}");
 
-            /**
-               string? nome;
-               string? sobrenome;
-               int idade; 
-               Console.WriteLine("Digite o seu nome:");
-               nome = Console.ReadLine();
-               Console.WriteLine("Digite o seu sobrenome:");
-               sobrenome = Console.ReadLine();
-               Console.WriteLine("Digite a sua idade:");
-               idade = Convert.ToInt32(Console.ReadLine());
-               Console.WriteLine($"O nome é:{nome}, o sobrenome é: {sobrenome} e a idade é: {idade}");
-           */
+            ushort variavelUShort = 65535; // Valores variam de 0 a 65535
+            Console.WriteLine($"ushort: {variavelUShort}");
 
-            /**
-                string? nome;
-                string? sobrenome;
-                string? Cidade; 
-                Console.WriteLine("Digite o seu nome:");
-                nome = Console.ReadLine();
-                Console.WriteLine("Digite o seu sobrenome:");
-                sobrenome = Console.ReadLine();
-                Console.WriteLine("Digite a sua Cidade:");
-                Cidade = Console.ReadLine();
-                Console.WriteLine($"O nome é:{nome}, o sobrenome é: {sobrenome} e a Cidade é: {Cidade}");
-            */
+            int variavelInt = -2147483648; // Valores variam de -2147483648 a 2147483647
+            Console.WriteLine($"int: {variavelInt}");
 
-            /**
-                string? nome;
-                Console.WriteLine("Digite o seu nome:");
-                nome = Console.ReadLine().ToUpper();
-                Console.WriteLine($"O seu nome é:{nome}");
-*/
+            uint variavelUInt = 4294967295; // Valores variam de 0 a 4294967295
+            Console.WriteLine($"uint: {variavelUInt}");
 
-            /**
-                string? nome;
-                Console.WriteLine("Digite o seu nome:");
-                nome = Console.ReadLine().ToLower();
-                Console.WriteLine($"O seu nome é:{nome}");
-*/
+            long variavelLong = -9223372036854775808; // Valores variam de -9223372036854775808 a 9223372036854775807
+            Console.WriteLine($"long: {variavelLong}");
 
-            /**string? profissao;
-Console.WriteLine("Digite a sua profissão:");
-profissao = Console.ReadLine();
-Console.WriteLine($"A sua profissão é:{profissao}");
-*/
+            ulong variavelULong = 18446744073709551615; // Valores variam de 0 a 18446744073709551615
+            Console.WriteLine($"ulong: {variavelULong}");
 
-            /**string? nome;
-string? pais;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite o seu pais de origem:");
-pais = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e o pais: {pais}");
-*/
+            float variavelFloat = 3.14f; // Valores variam de ±1.5 x 10^−45 a ±3.4 x 10^38, precisão de 7 dígitos
+            Console.WriteLine($"float: {variavelFloat}");
 
-            /**string? nome;
-int numero;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite o seu numero:");
-numero = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"O nome é:{nome}, e o número favorito é: {numero}");
-*/
+            double variavelDouble = 3.141592653589793; // Valores variam de ±5.0 × 10^−324 a ±1.7 × 10^308, precisão de 15-16 dígitos
+            Console.WriteLine($"double: {variavelDouble}");
 
-            /**string? hobby;
-Console.WriteLine("Digite o seu hobby:");
-hobby = Console.ReadLine();
-Console.WriteLine($"O seu hobby é:{hobby}");
-*/
+            decimal variavelDecimal = 79228162514264337593543950335M; // Valores variam de ±1.0 x 10^-28 a ±7.9 x 10^28, precisão de 28-29 dígitos
+            Console.WriteLine($"decimal: {variavelDecimal}");
 
-            /**string? cor;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite a sua cor favorita:");
-cor = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e a sua cor favorita é: {cor}");
-*/
+            char variavelChar = 'A'; // Valores variam de '\u0000' a '\uffff'
+            Console.WriteLine($"char: {variavelChar}");
 
-            /**string? filme;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite o seu filme favorito:");
-filme = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e o seu filme favorito é: {filme}");
-*/
+            bool variavelBool = true; // Valores são true ou false
+            Console.WriteLine($"bool: {variavelBool}");
 
-            /**string? musica;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite o seu genero musical:");
-musica = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e o seu genero musical é: {musica}");
-*/
+            object variavelObject = null; // Pode conter qualquer tipo de valor
+            Console.WriteLine($"object: {variavelObject}");
 
-            /**string? animal;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite qual animal você tem:");
-animal = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e o seu animal é: {animal}");
-*/
-
-            /**string? esporte;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite o esporte");
-esporte = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome}, e o seu esporte é: {esporte}");
-*/
-
-            /**string? comida;
-string? nome;
-Console.WriteLine("Digite o seu nome:");
-nome = Console.ReadLine();
-Console.WriteLine("Digite a sua comida favorita");
-comida = Console.ReadLine();
-Console.WriteLine($"O nome é:{nome} e a sua comida favorita é: {comida}");
-*/
-
-            /**int n = 5 ;
-int m = n++; // m recebe 5 e n se torna 6
-Console.WriteLine(n);
-Console.WriteLine(m);
-
-int n1 = 5 ;
-int m1 = n++; // n se torna 6, e m recebe 6
-Console.WriteLine(n1);
-Console.WriteLine(m1);
-*/
-
-
-
-
+            string variavelString = "Olá, Mundo!"; // Uma cadeia de caracteres
+            Console.WriteLine($"string: {variavelString}");
         }
     }
 }

@@ -107,7 +107,7 @@ namespace CursoCSaharp
         }
 
   */
-    public static class ExercicioTipoPrimitivo
+    public static class Exercicios
     {
         public static void EntradaSaida()
         {
