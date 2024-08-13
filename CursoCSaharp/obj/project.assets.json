@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSaharp.csproj",
-      "projectName": "CursoCSaharp",
-      "projectPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSaharp.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
+      "projectName": "CursoCSharp",
+      "projectPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\obj\\",
       "projectStyle": "PackageReference",

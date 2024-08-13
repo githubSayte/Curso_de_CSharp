@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp
 {
-    public static class OperadoresAritmeticos
+    public static class OperadoresAritimeticos
     {     /** 
                Soma = +
                Subtração = -

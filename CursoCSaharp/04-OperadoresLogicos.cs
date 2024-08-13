@@ -4,27 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoCSaharp
+namespace CursoCSharp
 {
     // metodo que demonstra o operador E logico (&&)
     public static class OperadoresLogicos
     {
-        public static bool Elogico(bool a, bool b) 
-        { 
-            return a && b;        
+        public static bool ELogico(bool a, bool b)
+        {
+            return a && b;
         }
         // metodo que demonstra o operador OU logico (||)
-        public static bool Elogico(bool a, bool b)
+        public static bool OULogico(bool a, bool b)
         {
             return a || b;
         }
-        public static bool Elogico(bool a, bool b)
+        public static bool Negacao(bool a)
         {
-            return a;
+            return !a;
         }
-        public static bool Elogico(bool a, bool b)
+        public static bool OUExclusivo(bool a, bool b)
         {
-            return a && b;
+            return a ^ b;
         }
     }
 }

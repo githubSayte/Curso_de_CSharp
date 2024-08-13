@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoCSaharp
+namespace CursoCSharp
 {/**
   
   1. Modifique o método LerArmazenar para armazenar o sobrenome do usuário e
