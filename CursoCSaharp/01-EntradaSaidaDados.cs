@@ -10,9 +10,9 @@ namespace CursoCSharp
     {
         public static void LerArmazenar()
         {
-            string? nome;
+
             Console.WriteLine("Digite o seu nome:");
-            nome = Console.ReadLine();
+            string? nome = Console.ReadLine();
 
             Console.WriteLine($"O nome e: {nome}");
 

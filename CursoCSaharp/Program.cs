@@ -29,4 +29,6 @@ using CursoCSharp;
 //OperadorTernario.DemonstrarTernario();
 //Conversão.DemonstrarConversoes();
 //EstruturaCondicional.DemonstrarCondicionais();
-EstruturaRepetição.DemonstrarRepeticoes();
+//EstruturaRepetição.DemonstrarRepeticoes();
+//_11_Array.DemonstrarArray();
+_12_ListExemplo.DemonstrarLista();
