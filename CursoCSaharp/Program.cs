@@ -62,6 +62,20 @@ TratarExcecoes tr1 = new TratarExcecoes();
 tr1.ExecutarDivisao(0, 2);
 */
 
-ExerciciosC_.Resposta1();
-
-
+ExerciciosC_ ex = new ExerciciosC_();
+ex.Resposta1();
+ex.Resposta2();
+ex.Resposta3();
+ex.Resposta4();
+ex.Resposta5();
+ex.Resposta6();
+ex.Resposta7();
+ex.Resposta8();
+ex.Resposta9();
+ex.Resposta10();
+ex.Resposta11();
+ex.Resposta12();
+ex.Resposta13();
+ex.Resposta14();
+ex.Resposta15();
+ex.Resposta16();

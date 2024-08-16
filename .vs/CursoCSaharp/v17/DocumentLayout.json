@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\04-operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\04-operadoreslogicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\07-operadorternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\07-operadorternario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\05-operadoresatribui\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\05-operadoresatribui\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\06-operadorescompara\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\06-operadorescompara\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\03-operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\03-operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\01-entradasaidadados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\01-entradasaidadados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\02-tiposprimitivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSaharp.csproj|solutionrelative:cursocsaharp\\02-tiposprimitivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\11-array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\11-array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\10-estruturarepeti\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\10-estruturarepeti\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\09-estruturacondicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\09-estruturacondicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\08-convers\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\08-convers\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Program.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Program.cs",
+              "RelativeToolTip": "CursoCSaharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:55:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01-EntradaSaidaDados.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\01-EntradaSaidaDados.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\01-EntradaSaidaDados.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\01-EntradaSaidaDados.cs",
+              "RelativeToolTip": "CursoCSaharp\\01-EntradaSaidaDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:02:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "02-TiposPrimitivos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\02-TiposPrimitivos.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\02-TiposPrimitivos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\02-TiposPrimitivos.cs",
+              "RelativeToolTip": "CursoCSaharp\\02-TiposPrimitivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:02:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03-OperadoresAritmeticos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\03-OperadoresAritmeticos.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\03-OperadoresAritmeticos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\03-OperadoresAritmeticos.cs",
+              "RelativeToolTip": "CursoCSaharp\\03-OperadoresAritmeticos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:37:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04-OperadoresLogicos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\04-OperadoresLogicos.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\04-OperadoresLogicos.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\04-OperadoresLogicos.cs",
+              "RelativeToolTip": "CursoCSaharp\\04-OperadoresLogicos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:02:24.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "05-operadoresAtribui\u00E7ao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\05-operadoresAtribui\u00E7ao.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\05-operadoresAtribui\u00E7ao.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\05-operadoresAtribui\u00E7ao.cs",
+              "RelativeToolTip": "CursoCSaharp\\05-operadoresAtribui\u00E7ao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:58:05.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06-OperadoresCompara\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\06-OperadoresCompara\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\06-OperadoresCompara\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\06-OperadoresCompara\u00E7\u00E3o.cs",
+              "RelativeToolTip": "CursoCSaharp\\06-OperadoresCompara\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:33:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07-OperadorTernario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\07-OperadorTernario.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\07-OperadorTernario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\07-OperadorTernario.cs",
+              "RelativeToolTip": "CursoCSaharp\\07-OperadorTernario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:50:39.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Exercicios.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\Exercicios.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Exercicios.cs",
+              "RelativeToolTip": "CursoCSaharp\\Exercicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:04:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "11-Array.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\11-Array.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\11-Array.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\11-Array.cs",
+              "RelativeToolTip": "CursoCSaharp\\11-Array.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:04:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "10-EstruturaRepeti\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\10-EstruturaRepeti\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\10-EstruturaRepeti\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\10-EstruturaRepeti\u00E7\u00E3o.cs",
+              "RelativeToolTip": "CursoCSaharp\\10-EstruturaRepeti\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:04:32.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "09-EstruturaCondicional.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\09-EstruturaCondicional.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\09-EstruturaCondicional.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\09-EstruturaCondicional.cs",
+              "RelativeToolTip": "CursoCSaharp\\09-EstruturaCondicional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:04:28.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "08-Convers\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\08-Convers\u00E3o.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\08-Convers\u00E3o.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\08-Convers\u00E3o.cs",
+              "RelativeToolTip": "CursoCSaharp\\08-Convers\u00E3o.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:04:24.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
