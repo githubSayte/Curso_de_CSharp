@@ -72,10 +72,11 @@ ex.Resposta6();
 ex.Resposta7();
 ex.Resposta8();
 ex.Resposta9();
-ex.Resposta10();
+ex.Resposta10_CalculaSoma(1,2);
 ex.Resposta11();
 ex.Resposta12();
 ex.Resposta13();
 ex.Resposta14();
 ex.Resposta15();
 ex.Resposta16();
+

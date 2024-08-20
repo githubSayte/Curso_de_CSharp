@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno Noite\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Area de trabalho\\Renato\\GitHub\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Area de trabalho\\Renato\\GitHub\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Area de trabalho\\Renato\\GitHub\\Curso_de_CSharp\\CursoCSaharp\\obj\\",
+      "projectPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno Noite\\OneDrive\\Área de Trabalho\\Renato R. Aluno da Manhã\\Curso_de_CSharp\\CursoCSaharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
