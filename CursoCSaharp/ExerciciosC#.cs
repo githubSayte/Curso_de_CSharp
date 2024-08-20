@@ -108,14 +108,22 @@ namespace CursoCSharp
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 6");
-            List<string> frutas = { };
-            add."Maçã";
-        }
 
-        /**
-          
-          */
-        public void Resposta7()
+            Console.WriteLine("O nome da lista é: frutas");
+
+            List<string> frutas = new List<string>();
+
+            // 2. Adicionar Elementos à Lista
+            frutas.Add("Maçã");
+            frutas.Add("Banana");
+            frutas.Add("Laranja");
+
+            Console.WriteLine("a lista 'frutas' após a adição de elementos:"  frutas);
+        }
+            /**
+              
+              */
+            public void Resposta7()
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 7");
