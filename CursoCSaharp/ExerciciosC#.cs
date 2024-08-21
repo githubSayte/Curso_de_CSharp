@@ -186,7 +186,7 @@ namespace CursoCSharp
             }
             Console.WriteLine("A segunda cidade da lista é:" + cidades[1]);
         }
-        
+
         /**
         9.	Contando Elementos em uma List
         Crie uma List<string> chamada animais e adicione os valores "Cachorro", "Gato", "Coelho". Escreva um código que imprima quantos elementos existem na lista.
@@ -209,6 +209,8 @@ namespace CursoCSharp
             {
                 Console.WriteLine(animal);
             }
+            // Contar e imprimir a quantidade de elementos
+            Console.WriteLine($"A lista 'animais' contém {animais.Count} elementos.");
         }
 
         /**
@@ -229,30 +231,43 @@ namespace CursoCSharp
             Console.WriteLine($"A soma de {n1} e {n2} é igual a: {soma}");
         }
 
+
         /**
          * 11.	Variável Global em uma Classe
          Crie uma classe chamada Carro com uma variável global string marca. 
          No método Main, instancie um objeto Carro, defina a marca do carro como "Toyota" e imprima a marca.
          */
 
+        string marca = "Toyota";
+
         public void Resposta11()
         {
            Console.WriteLine("\n");
            Console.WriteLine("Resposta da questão 11");
+           {
+                Console.WriteLine(marca); 
+            }
         }
 
         /**
         12.	Conflito de Escopo
         Escreva um método onde você declare uma variável local com o mesmo nome de uma variável global da classe.
         Mostre como acessar ambas as variáveis no mesmo método.
-        */
+       
+
+        string nome1 = "";
 
         public void Resposta12()
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 12");
 
+            string nome1 = "Local";
+            Console.WriteLine($"Variável local: {nome1}");
+            Console.WriteLine($"Variável global: {this.nome1}");
         }
+
+         */
 
         /**
         13. Variável Local dentro de um Bloco Condicional
@@ -264,6 +279,16 @@ namespace CursoCSharp
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 13");
+            {
+
+                if (true)
+                {
+                    int x = 0;
+                }
+
+                //Console.WriteLine(x);
+            }
+
         }
 
         /**
@@ -272,10 +297,18 @@ namespace CursoCSharp
         No método Main, altere o valor de contador dentro de um loop for e depois imprima o valor final de contador.
         */
 
+        string nome2 = "";
+
+
         public void Resposta14()
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 14");
+            string nome2 = "";
+            Console.WriteLine(nome2);
+            Console.WriteLine(this.nome2);
+
+
         }
 
         /**
@@ -288,6 +321,16 @@ namespace CursoCSharp
         {
             Console.WriteLine("\n");
             Console.WriteLine("Resposta da questão 15");
+            try
+            {
+                string nome = "Rodrigo";
+                int numParse = int.Parse(nome); // Isso lançará uma exceção
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message); // Este bloco será executado
+            }
+
         }
 
         /**
@@ -296,11 +339,35 @@ namespace CursoCSharp
         Capture a exceção no método Main e imprima uma mensagem apropriada.
         */
 
+
+        /** public void VerificarNumero(int n)
+         {
+                if (n < 0)
+                {
+                    throw new ArgumentException("Número negativo não permitido.");
+                }
+         }
+*/
         public void Resposta16()
+ {
+        Console.WriteLine("\n");
+        Console.WriteLine("Resposta da questão 16");
+    try
+    {
+        int n = -1;
+        if (n < 0)
         {
-            Console.WriteLine("\n");
-            Console.WriteLine("Resposta da questão 16");
+            throw new Exception("Erro personalizado: Numero negativo.");
         }
+
     }
+    catch (Exception ex)
+    {
+        Console.WriteLine(ex.Message); // Este bloco será executado
+    }
+
+}
+}
+
 
 }

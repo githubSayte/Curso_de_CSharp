@@ -1,4 +1,5 @@
 ﻿
+using Curso_C_;
 using CursoCSharp;
 
 //bool resultado;
@@ -62,6 +63,8 @@ TratarExcecoes tr1 = new TratarExcecoes();
 tr1.ExecutarDivisao(0, 2);
 */
 
+
+/** 
 ExerciciosC_ ex = new ExerciciosC_();
 ex.Resposta1();
 ex.Resposta2();
@@ -79,4 +82,28 @@ ex.Resposta13();
 ex.Resposta14();
 ex.Resposta15();
 ex.Resposta16();
+*/
 
+ConceitosOOP conceitos = new ConceitosOOP();
+conceitos.ExplicarOrientacaoAObjetos();
+conceitos.DiferencaEntreParadigmas();
+conceitos.ExplicarPilares();
+
+Pessoa pessoa1 = new Pessoa("Alice",30);
+Pessoa pessoa2 = new Pessoa("Bob", 25);
+
+
+// 2 usando metodos de instancia (metodos não estaticos)
+
+pessoa1.ExibirInformacoes();
+pessoa2.ExibirInformacoes();
+
+// 3 usando metodo estático (pertence a Classe, não a instancia)
+Pessoa.ExibirNumeroDePessoas();
+
+// 4 membros de instancias vs. Membros Estáticos
+Console.WriteLine($"Pessoa1: {pessoa1.Nome}, Idade: {pessoa1.Idade}");
+Console.WriteLine($"Pessoa1: {pessoa2.Nome}, Idade: {pessoa2.Idade}");
+Console.WriteLine($"Número total de pessoas: {Pessoa.NumeroDePessoas}");
+
+Produto Produto = new Produto();
