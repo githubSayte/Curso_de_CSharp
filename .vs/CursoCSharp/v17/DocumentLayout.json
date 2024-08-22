@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Encapsulamento.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Encapsulamento.cs",
               "RelativeDocumentMoniker": "CursoCSaharp\\Encapsulamento.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Encapsulamento.cs",
               "RelativeToolTip": "CursoCSaharp\\Encapsulamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:26:47.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSaharp\\Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Program.cs",
               "RelativeToolTip": "CursoCSaharp\\Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T13:53:19.738Z",
               "EditorCaption": ""

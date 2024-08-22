@@ -84,6 +84,7 @@ ex.Resposta15();
 ex.Resposta16();
 */
 
+/** 
 ConceitosOOP conceitos = new ConceitosOOP();
 conceitos.ExplicarOrientacaoAObjetos();
 conceitos.DiferencaEntreParadigmas();
@@ -105,5 +106,24 @@ Pessoa.ExibirNumeroDePessoas();
 Console.WriteLine($"Pessoa1: {pessoa1.Nome}, Idade: {pessoa1.Idade}");
 Console.WriteLine($"Pessoa1: {pessoa2.Nome}, Idade: {pessoa2.Idade}");
 Console.WriteLine($"Número total de pessoas: {Pessoa.NumeroDePessoas}");
+*/
 
-Produto Produto = new Produto();
+
+
+// Instanciando a classe Produto usando o construtor padrão
+Produto produto1 = new Produto();
+produto1.ExibirInformacoes();
+
+// Instanciando a classe Produto usando o construtor com parâmetros
+Produto produto2 = new Produto("Smartphone", 1999.99m, 50);
+produto2.ExibirInformacoes();
+
+// Modificando atributos usando propriedades
+produto1.Nome = "Notebook";
+produto1.Preco = 2999.99m;
+produto1.Estoque = 25;
+produto1.ExibirInformacoes();
+
+// Acessando método protegido através da classe derivada
+ProdutoEspecial produtoEspecial = new ProdutoEspecial();
+produtoEspecial.ExibirMetodoProtegido();
