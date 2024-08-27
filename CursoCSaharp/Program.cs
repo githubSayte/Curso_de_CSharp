@@ -1,45 +1,49 @@
-﻿
-using System;
-using Curso_C_;
-using CursoCSharp;
+﻿using Curso_C_;
+
+Carro carro = new Carro("Honda", "Civic", 2024);
+carro.ExibirDetalhes();
+
+PessoaNova ps = new PessoaNova();
+ps.Nome = "Rodrigo";
+ps.Idade = 43;
+ps.Cidade = "Brasilia";
+
+Exercicio exercicio = new Exercicio();
+exercicio.Exibir();
+
+int rebeceSoma = exercicio.Soma(9, 3);
+Console.WriteLine($"A soma dde dois numeros e {rebeceSoma}");
+
+bool recebeBool = exercicio.MostrarBoleano();
+Console.WriteLine($"Esta chevendo?{recebeBool}");
+
+bool recebeBoolIdade = exercicio.verificarMaioridade(20);
+Console.WriteLine($"A pessoa e maior de idade? {recebeBoolIdade}");
+
+exercicio.ExibirAltura();
+
+double recebeAreaC = exercicio.CalcularArea(9.45);
+Console.WriteLine($"A area e {recebeAreaC:F2}");
+
+double recebeAreaR = exercicio.CalcularArea(9, 6);
+Console.WriteLine($"A area e {recebeAreaR:F2}");
+
+Calculadora ck = new Calculadora();
+double recebeMulti2 = ck.Multiplicar(2, 3);
+Console.WriteLine($"O valor da multiplicação com dois parametros e{recebeMulti2}");
+double recebeMulti3 = ck.Multiplicar(2, 3, 4);
+Console.WriteLine($"O valor da multiplicação com tres parametros e{recebeMulti3}");
+
+exercicio.ExibirChar();
+exercicio.ExibirNota(9);
+long recebeFatorial = exercicio.Fatorial(10);
+Console.WriteLine($"O Fatorial e: {recebeFatorial}");
 
 
 
-    void Main(string[] args)
-    {
-        // Cria um objeto da classe Soma
-        Revis somarN = new Revis();
 
-        // Chama o método Somar passando os dois números e armazena o resultado
-        int resultado = somarN.Somar(30, 5);
-
-        // Exibe o resultado no console
-        Console.WriteLine($"O resultado da soma é igual a: {resultado}");
-
-        // Pausa o console para que o usuário veja o resultado
-        Console.ReadLine();
-    }
-
-
-
-Carro carro1 = new Carro("Toyota", "Corolla", 2024);
-carro1.ExibirDetalhes();
-
-Pessoa1 pessoa1 = new Pessoa1();
-
-pessoa1.Nome1 = "Rei Hokague";
-pessoa1.Idade1 = 35;
-pessoa1.Cidade1 = "Brasilia";
-
-pessoa1.ExibirInformacoes();
-
-Pessoa2 pessoa2 = new Pessoa2();
-
-pessoa2.Nome2 = "Renato";
-pessoa2.Idade2 = 25;
-
-pessoa2.Exibir();
-
-RevisãoExercicios.Questoes();
-
+FluxoLoop fl = new FluxoLoop();
+fl.ExibirLoop();
+fl.ExibirLoopWhile();
+fl.ImprimirPares(6);
 
