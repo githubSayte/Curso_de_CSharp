@@ -1,5 +1,7 @@
 ﻿using Curso_C_;
-
+using CursoCSharp;
+{
+    /**
 Carro carro = new Carro("Honda", "Civic", 2024);
 carro.ExibirDetalhes();
 
@@ -47,3 +49,17 @@ fl.ExibirLoop();
 fl.ExibirLoopWhile();
 fl.ImprimirPares(6);
 
+*/
+
+    //var exemple = new VarUsageExample();
+    //exemple.DemonstrateVarUsage();
+
+    //var exemplo = new ExemploUsoDynamic();
+   // exemplo.DemonstrarUsoDynamic();
+
+    var exemplo = new ExemploUsoLINQ();
+    exemplo.DemonstrarUsoLINQ();
+    var demonstrar = new TipoVariavel();
+    demonstrar.Exibir();
+
+}

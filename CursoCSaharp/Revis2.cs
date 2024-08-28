@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp
 {
-    public class Aluno
+    public class Livro 
     {
-       public string nome;
-       public string curso;
-       public string matricula;
+        public void Lvro() { }
+        string Titulo;
     }
 }

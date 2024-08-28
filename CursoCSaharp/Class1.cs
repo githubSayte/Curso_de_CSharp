@@ -1,7 +1,8 @@
 ﻿using System;
 
-namespace CursoCSharp
-{/**
+namespace CursoCSharp { }
+/** {
+
     public class Carro
     {
         public string Marca { get; }
@@ -220,3 +221,4 @@ namespace CursoCSharp
         }
     }
 }
+*/
