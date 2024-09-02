@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\recurs\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\recurs\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\cole\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|solutionrelative:cursocsaharp\\cole\u00E7\u00F5es.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3054D3-4925-48B2-872E-C27DC1868016}|CursoCSaharp\\CursoCSharp.csproj|c:\\users\\aluno noite\\onedrive\\\u00E1rea de trabalho\\renato r. aluno da manh\u00E3\\curso_de_csharp\\cursocsaharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Recurs\u00E3o.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Recurs\u00E3o.cs",
-              "RelativeDocumentMoniker": "CursoCSaharp\\Recurs\u00E3o.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Recurs\u00E3o.cs",
-              "RelativeToolTip": "CursoCSaharp\\Recurs\u00E3o.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAABAAAA",
+              "Title": "Cole\u00E7\u00F5es.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Cole\u00E7\u00F5es.cs",
+              "RelativeDocumentMoniker": "CursoCSaharp\\Cole\u00E7\u00F5es.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Cole\u00E7\u00F5es.cs",
+              "RelativeToolTip": "CursoCSaharp\\Cole\u00E7\u00F5es.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:50:26.703Z",
+              "WhenOpened": "2024-09-02T14:15:46.017Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "CursoCSaharp\\Program.cs",
               "ToolTip": "C:\\Users\\Aluno Noite\\OneDrive\\\u00C1rea de Trabalho\\Renato R. Aluno da Manh\u00E3\\Curso_de_CSharp\\CursoCSaharp\\Program.cs",
               "RelativeToolTip": "CursoCSaharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T13:53:19.738Z",
               "EditorCaption": ""
