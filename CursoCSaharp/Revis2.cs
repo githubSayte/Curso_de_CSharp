@@ -14,19 +14,19 @@ namespace CursoCSharp
         public int Idade { get; set; }
     }
 
-    public class Exercicio
+    public class Exercicio1
     {
         public void ExibirInfomacoes()
         {
 
             var ListPessoas = new List<PessoaAtual>
             {
-                new PessoaAtual{Nome= "Rodrigo", Idade= 20 },
-                new PessoaAtual{Nome= "Bianca", Idade= 20 },
-                new PessoaAtual{Nome= "Isac", Idade= 30 },
-                new PessoaAtual{Nome= "Renato", Idade= 50 },
-                new PessoaAtual{Nome= "Renato", Idade= 30 },
-                new PessoaAtual{Nome= "Aline", Idade= 20 }
+                new PessoaAtual{Nome = "Rodrigo", Idade= 20 },
+                new PessoaAtual{Nome = "Bianca", Idade= 20 },
+                new PessoaAtual{Nome = "Isac", Idade= 30 },
+                new PessoaAtual{Nome = "Renato", Idade= 50 },
+                new PessoaAtual{Nome = "Renato", Idade= 30 },
+                new PessoaAtual{Nome = "Aline", Idade= 20 }
 
             };
 
