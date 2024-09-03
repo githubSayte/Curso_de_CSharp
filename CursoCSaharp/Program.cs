@@ -42,11 +42,8 @@ Console.WriteLine($"Valor de Numero ou padrão: {demo.ObterValorOuPadrao()}");
 
      // Explicando os conceitos
      demo.ExplicarConceitos();
-*/
 
-
-
- Colecoes colecoes = new Colecoes();
+    Colecoes colecoes = new Colecoes();
 
  colecoes.ExplicarDictionary();
  Console.WriteLine();
@@ -57,7 +54,18 @@ Console.WriteLine($"Valor de Numero ou padrão: {demo.ObterValorOuPadrao()}");
  colecoes.ExplicarStack();
  Console.WriteLine();
 
- colecoes.ExplicarSet();
+ colecoes.ExplicarSet()
+
+*/
+
+    var dia = new ExplicacaoEnum();
+    dia.ExplicacaoDetalhada();
+    dia.DemonstrarEnum();   
+
+
+
+
+
 
 
 
