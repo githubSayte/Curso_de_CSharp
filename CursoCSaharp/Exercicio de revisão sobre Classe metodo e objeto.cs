@@ -69,23 +69,6 @@ public class Carro
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Instancia a classe Carro
-        Carro carro = new Carro();
-
-        // Define os valores das propriedades
-        carro.Modelo3 = "Ford Mustang";
-        carro.Ano = 2022;
-        carro.Preco = 250000.00m;  // Usando o sufixo 'm' para valores decimais
-
-        // Chama o método ExibirInfo
-        carro.ExibirInfo();
-    }
-
-}
 
 // Q 4.
 //using System;
@@ -111,14 +94,5 @@ class Matematica
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Usa o método Fatorial para calcular alguns exemplos
-        Console.WriteLine("Fatorial de 5: " + Matematica.Fatorial(5));
-        Console.WriteLine("Fatorial de 7: " + Matematica.Fatorial(7));
-        Console.WriteLine("Fatorial de 0: " + Matematica.Fatorial(0));
-    }
-}
+
 

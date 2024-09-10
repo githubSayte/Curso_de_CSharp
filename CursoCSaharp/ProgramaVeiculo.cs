@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CursoCSharp
+namespace Curso_C_
 {
+
     // Classe Veiculo
     public class Veiculo
     {
@@ -90,6 +87,11 @@ namespace CursoCSharp
             return veiculosDisponiveis.Find(veiculo => veiculo.Modelo == modelo);
         }
 
+        public List<Veiculo> ListarTodosVeiculos()
+        {
+            return veiculosDisponiveis; // Retorna a lista de veículos disponíveis
+        }
+
         // Método para vender veículo
         public void VenderVeiculo(Veiculo veiculo)
         {
@@ -140,3 +142,4 @@ namespace CursoCSharp
     }
 
 }
+
